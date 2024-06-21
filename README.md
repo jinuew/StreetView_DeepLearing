@@ -1,6 +1,8 @@
 # StreetView_DeepLearing
 
-프로젝트 기간(2024.3월~2024.5월 - 12주를 목표로 함)
+프로젝트 기간(2024.3월~2024.5월)
+[https://jinuew.github.io/webinfo/](https://jinuew.github.io/webinfo/)
+
 
 
 연구 개요:<br>
